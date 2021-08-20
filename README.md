@@ -36,11 +36,12 @@ para as mais diversas situações.
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<img height="160em" width="" src="https://github-readme-stats.vercel.app/api?username=cleitonleonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="160em" width="" style="font-size: 13px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLeonel&layout=compact&langs_count=16&theme=dracula"/><br>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleitonleonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLeonel&layout=compact&langs_count=16&theme=dracula"/><br>
 
 ###
 
+<div>
 <img src="https://img.shields.io/static/v1?label=Overview&message=CLEITON&color=f8efd4&style=for-the-badge&logo=GitHub">
 <p>
 
@@ -51,3 +52,4 @@ Sou desenvolvedor **Backend/Frontend**.
 </p>
 
 <hr>
+</div>
