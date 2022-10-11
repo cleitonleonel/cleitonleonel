@@ -52,9 +52,8 @@ para as mais diversas situações.
 <div>
 <p>
 
-Atualmente trabalhando na **OTMA Soluções** e disponível como freelancer
+Atualmente trabalhando na **OTMA Soluções**
 <br/>
-Sou desenvolvedor **Backend/Frontend**.
 </p>
 <hr>
 </div>
