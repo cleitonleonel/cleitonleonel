@@ -37,8 +37,8 @@ para as mais diversas situações.
 ## ⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/cleitonleonel">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cleitonleonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonLeonel&layout=compact&langs_count=16&theme=dracula"/><br></a>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=cleitonleonel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CleitonLeonel&layout=compact&langs_count=16&theme=dracula"/><br></a>
 </div>
 
 ###
