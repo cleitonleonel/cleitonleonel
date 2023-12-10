@@ -2,11 +2,11 @@
 
 <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Sou desenvolvedor autodidata amante de novas tecnologias, sempre disposto a aprender.
-- 💼 &nbsp; Trabalho há quase 7 anos com desenvolvimento de sistemas, scripts automatizados, webscraping,
+- 🤔 &nbsp; Sou desenvolvedor amante de novas tecnologias e sempre disposto a aprender.
+- 💼 &nbsp; Trabalho há quase 9 anos com desenvolvimento de sistemas, scripts automatizados, webscraping,
 crawlers e desenvolvimento web, desenvolvendo soluções
 para as mais diversas situações.
-- 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Banco de dados, desenvolvimento web, api-rest** e sempre em busca de mais conhecimento e novos desafios.
+- 🌱 &nbsp; Aprendendo mais sobre **Python, Javascript, Banco de dados, desenvolvimento web, api-rest**, estou sempre em busca de mais conhecimento e novos desafios.
 
 ## 💬 Meus Contatos e Redes
 
