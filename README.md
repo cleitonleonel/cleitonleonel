@@ -52,7 +52,7 @@
 <div>
 <p>
 
-Atualmente atuando como **Frelancer**. 
+Atualmente atuando como **Freelancer**. 
 <br/>
 </p>
 <hr>
