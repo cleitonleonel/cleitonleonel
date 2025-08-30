@@ -52,7 +52,7 @@
 <div>
 <p>
 
-Atualmente trabalhando na **OTMA Soluções**
+Atualmente atuando como **Frelancer**. 
 <br/>
 </p>
 <hr>
