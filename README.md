@@ -1,9 +1,9 @@
 # Olá! 👋 Seja bem-vindo ao meu perfil!
 
 ## Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, com quase 9 anos de experiência em criar soluções inovadoras e eficientes. Minha trajetória profissional abrange o desenvolvimento de sistemas complexos, automação de processos, web scraping, crawlers e desenvolvimento web. Estou sempre em busca de novos desafios que possam expandir minhas habilidades.
-
-Atualmente, estou aprofundando meu conhecimento em Python, JavaScript, bancos de dados, desenvolvimento web e API REST. Acredito que o aprendizado contínuo é essencial para a excelência, e estou comprometido em evoluir constantemente, buscando sempre as melhores práticas e soluções de ponta.
+💻 Desenvolvedor com experiência em automação, web scraping, crawlers, bots, chatbots e desenvolvimento web.
+🐧 Trabalho com Linux, Python, JavaScript, Docker, bancos de dados e APIs REST.
+🔹 Atuando também na manutenção de sistemas legados, com foco em boas práticas e evolução contínua.
 
 
 ## 💬 Meus Contatos e Redes
