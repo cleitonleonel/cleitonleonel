@@ -1,9 +1,11 @@
-# Olá! 👋 Seja bem-vindo ao meu perfil!
+# 👋 Olá, eu sou o Cleiton  
 
-## Sobre mim
-💻 Desenvolvedor com experiência em automação, web scraping, crawlers, bots, chatbots e desenvolvimento web.
-🐧 Trabalho com Linux, Python, JavaScript, Docker, bancos de dados e APIs REST.
-🔹 Atuando também na manutenção de sistemas legados, com foco em boas práticas e evolução contínua.
+## 💻 Sobre mim  
+💻 Desenvolvedor com experiência em **automação, web scraping, crawlers, bots, chatbots e desenvolvimento web**.  
+🐧 Trabalho com **Linux, Python, JavaScript, Docker, bancos de dados e APIs REST**.  
+🔹 Atuação também em **manutenção de sistemas legados**, com foco em boas práticas e evolução contínua.  
+
+---
 
 
 ## 💬 Meus Contatos e Redes
